@@ -44,10 +44,7 @@ This project helped in understanding how to:
 ---
 
 ## 🧑‍💻 Developer's
-**Name:** Sneh Ranjan Behera
-Ajay mehra
-Rinku maurya
-Shantanu Purandare  
+**Name:** Sneh Ranjan Behera ,Ajay mehra ,Rinku maurya ,Shantanu Purandare  
 **University:** Scope Global Skills University  
 **Program:** BCA (AI & ML)  
 **Year:** 2025  
